@@ -1,0 +1,29 @@
+.about-us {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.about-us-logo {
+  max-width: 220px;
+  margin: 0 auto 24px auto;
+  display: block;
+}
+
+.about-us h2 {
+  font-family: "Inter", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 20px;
+}
+
+.about-us p {
+  font-family: "Inter", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #737373;
+  max-width: 520px;
+  margin: 0 auto 24px auto;
+  line-height: 1.7;
+  text-align: center;
+}

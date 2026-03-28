@@ -1,0 +1,26 @@
+.footer {
+  background: #ff9e00;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer-logo {
+  width: 60px;
+  margin: 0 auto 12px auto;
+  display: block;
+}
+
+.footer h3 {
+  font-family: "Inria Serif", serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.footer p {
+  font-family: "Inter", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.8);
+}
