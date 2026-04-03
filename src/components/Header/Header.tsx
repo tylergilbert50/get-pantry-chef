@@ -1,7 +1,7 @@
 import "./Header.css";
-import logo from "../../assets/pantry-chef-logo.png";
-import appStore from "../../assets/app-store.png";
-import googlePlay from "../../assets/google-play.png";
+import logo from "../../assets/pantry-chef-logo.svg";
+import appStore from "../../assets/app-store.svg";
+import googlePlay from "../../assets/google-play.svg";
 
 export default function Header() {
   return (

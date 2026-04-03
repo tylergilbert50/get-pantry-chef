@@ -1,5 +1,5 @@
 import "./Footer.css";
-import logo from "../../assets/pantry-chef-logo.png";
+import logo from "../../assets/pantry-chef-logo.svg";
 
 export default function Footer() {
   return (
