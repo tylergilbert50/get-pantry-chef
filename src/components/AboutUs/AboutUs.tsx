@@ -1,15 +1,9 @@
 import "./AboutUs.css";
-import apsuLogo from "../../assets/apsu-logo.png";
 
 export default function AboutUs() {
   return (
     <section className="about-us">
       <div className="reveal">
-        <img
-          src={apsuLogo}
-          alt="Austin Peay State University"
-          className="about-us-logo"
-        />
         <h2>About Us</h2>
         <p>
           We are a team of students from Austin Peay State University, building
