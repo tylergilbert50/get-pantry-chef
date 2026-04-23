@@ -4,22 +4,22 @@ const team = [
   {
     name: "Tyler Gilbert",
     role: "UI/UX Design - Full Stack",
-    bio: "I am a UI/UX designer and full-stack developer for PantryChef, where I led the concept and vision behind the project. I designed the user experience and interface for both the mobile app and website, and contributed across the project as a whole, but with a stronger focus on front-end development. I’m passionate about creating intuitive, user-centered products and aspire to become a front-end developer or product designer. I take pride in my leadership abilities, attention to detail, and commitment to delivering polished, high-quality work.",
+    bio: "Full-stack developer for PantryChef, building the mobile and web applications from the ground up. Responsible for the design and development of the front end, focusing on responsive layouts, state handling, and API-driven functionality. Dedicated to producing efficient, scalable code and creating smooth, user-friendly experiences, with a strong emphasis on quality and precision.",
   },
   {
     name: "Ashton Hull",
     role: "Database Design - Backend",
-    bio: "Bio Here",
+    bio: "Backend developer for PantryChef, responsible for designing and implementing the majority of the database architecture. Contributed to API development and functionality, with additional support on select front-end features. Focused on building efficient, reliable systems and ensuring smooth data flow across the application.",
   },
   {
     name: "Jacob Lehtola",
     role: "Graphic Design - Front End",
-    bio: "Bio Here",
+    bio: "I am a developer for PantryChef with a focus on front end and graphic design. My front-end development centered on creating the recipe reader. My back end development focused on core components such as API access, ingredient matching, and request caching. I also designed the project icon, poster, and in-app motion graphics.",
   },
   {
     name: "Braxton Wilson",
     role: "Front End",
-    bio: "Bio Here",
+    bio: "I am one of the front end programmers for Pantry Chef, where I take the design and make it a reality. I have helped to implement the front end UI for the application in addition to making any quality changes as we see fit. I have a passion for making a design a reality and aspire to be a software programmer. I take pride in being a team player, having strong attention to detail, and a drive to make as high a quality product as possible.",
   },
 ];
 
