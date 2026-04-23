@@ -9,7 +9,7 @@ const team = [
   {
     name: "Ashton Hull",
     role: "Database Design - Backend",
-    bio: "Backend developer for PantryChef, responsible for designing and implementing the majority of the database architecture. Contributed to API development and functionality, with additional support on select front-end features. Focused on building efficient, reliable systems and ensuring smooth data flow across the application.",
+    bio: "I am a developer for PantryChef with a focus on backend and database architecture. I designed and implemented the PostgreSQL schema, row-level security policies, database views and functions, and the TypeScript service layer. On the front end, I built the saved recipe and recipe completion features, including automatic ingredient deduction from the pantry and logging completed recipes to history.",
   },
   {
     name: "Jacob Lehtola",
